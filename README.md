@@ -14,7 +14,7 @@ An **open source** GitHub Android client app, faster and concise.
 * Two login types (Basic Auth) and (OAuth)
 * Light and dark theme, multiple accent color
 * Markdown and code highlighting support
-* English, Simplified Chinese, Hebrew and German support
+* English, Hindi, Simplified Chinese, Hebrew and German support
 * Offline mode
 * Support trending repositories of all languages
 * Support multi-account switching
@@ -97,11 +97,12 @@ An **open source** GitHub Android client app, faster and concise.
 * [RichText](https://github.com/zzhoujay/RichText) Rich text parser for Android, support markdown and html.
 * [jsoup](https://github.com/jhy/jsoup) Java HTML Parser, with best of DOM, CSS, and jquery.
 
-## Contributions
+## Contributions(*Order by commit time*)
 * [moriel5](https://github.com/moriel5) - Hebrew translation
-* [Henry2o1o](https://github.com/Henry2o1o) & [squeezer11](https://github.com/squeezer11) - German translation
+* [Henry2o1o](https://github.com/Henry2o1o), [squeezer11](https://github.com/squeezer11), [ropaha](https://github.com/ropaha) - German translation
 * [Edfgdz](https://github.com/Edfgdz) - Testing and suggest
 * [pzhlkj6612](https://github.com/pzhlkj6612) - Improve the translation of chinese readme
+* [hiteshnayak305](https://github.com/hiteshnayak305) - Hindi translation
 
 ## License
     Copyright (C) 2017 ThirtyDegreesRay
