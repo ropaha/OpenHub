@@ -1,6 +1,6 @@
 [English](/README.md) | 中文
 # OpenHub 
-[![Releases](https://img.shields.io/badge/android-5.0%2B-brightgreen.svg)](https://www.coolapk.com/apk/com.thirtydegreesray.openhub)
+[![Releases](https://img.shields.io/badge/android-5.0%2B-brightgreen.svg)](https://play.google.com/store/apps/details?id=com.thirtydegreesray.openhub)
 [![Releases](https://img.shields.io/github/release/ThirtyDegreesRay/OpenHub.svg)](https://github.com/ThirtyDegreesRay/OpenHub/releases/latest)
 
 一个**开源**的GitHub Android客户端应用，快速简洁。
@@ -12,9 +12,9 @@
 
 ### App
 * 两种登录方式，(Basic Auth) 和 (OAuth)
-* 支持夜间模式，多种主色调
+* 支持夜间模式和AMOLED Dark主题，多种主色调
 * 支持Markdown和代码高亮
-* 支持英文，印地文，简体中文，希伯来文和德文
+* 支持英文、简体中文、希伯来文、德文、印地文、葡萄牙文、韩文和西班牙文
 * 支持离线模式
 * 支持所有语言的最热版本库查看
 * 支持多账户切换
@@ -57,7 +57,7 @@
 * 编辑、添加和删除你的标签
 * 编写评论时可以预览
 * 查看你创建的、分配给你的和提到你的问题
-* 查看版本库问题
+.';ij,i.* 查看版本库问题
 
 ### 提交
 * 查看提交信息和文件
@@ -96,6 +96,8 @@
 * [GitHub-Trending](https://github.com/thedillonb/GitHub-Trending) 对GitHub趋势页面进行数据抓取
 * [RichText](https://github.com/zzhoujay/RichText) Android平台下的富文本解析器，支持Html和Markdown
 * [jsoup](https://github.com/jhy/jsoup) HTML解析器
+* [OctoDroid](https://github.com/slapperwan/gh4a) GitHub客户端。
+* [FastHub](https://github.com/k0shk0sh/FastHub) GitHub客户端。
 
 ## 贡献（*按提交时间排序*）
 * [moriel5](https://github.com/moriel5) - 希伯来语翻译
@@ -103,21 +105,20 @@
 * [Edfgdz](https://github.com/Edfgdz) - 测试与建议
 * [pzhlkj6612](https://github.com/pzhlkj6612) - 改进中文概述的翻译
 * [hiteshnayak305](https://github.com/hiteshnayak305) - 印地语翻译
+* [KcNirvana](https://github.com/KcNirvana) - 葡萄牙语翻译
+* [sclickk](https://github.com/sclickk) - 改进英语翻译
+* [Zazsona](https://github.com/Zazsona) - 添加AMOLED主题
+* [Aqueminivan](https://github.com/Aqueminivan) - 改进英文概述的翻译
+* [XF-zhjnc](https://github.com/XF-zhjnc) - 修复WIKI内部链接点击无效和版本库大小显示溢出等bug
+* [fergthh](https://github.com/fergthh) - 西班牙语翻译
 
 ## License
-    Copyright (C) 2017 ThirtyDegreesRay
+ThirtyDegreesRay:
+> Copyright (C) 2017 ThirtyDegreesRay.
+> Licensed under the [GPL-3.0](https://www.gnu.org/licenses/gpl.html).
+> (See the [LICENSE](https://github.com/ThirtyDegreesRay/OpenHub/blob/master/LICENSE) file for the whole license text.)
 
-    Licensed under the GNU GENERAL PUBLIC LICENSE, Version 3.0 license;
-
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+Kosh(There are 13 files has some code copied from FastHub):
+> Copyright (C) 2017 Kosh.
+> Licensed under the [GPL-3.0](https://www.gnu.org/licenses/gpl.html) license.
+> (See the [LICENSE](https://github.com/k0shk0sh/FastHub/blob/master/LICENSE) file for the whole license text.)
